@@ -1,29 +1,51 @@
 # Power BI Sales Analysis for Global Super Store
 
-### Project Overview
-This project focuses on analyzing the sales data of Global Super Store, a large online retailer with worldwide operations. The goal is to provide insights into product and customer behavior to optimize inventory management and business processes. Using Power BI, this project delivers an interactive and data-driven sales analysis.
+### Problem Statement:
+Global Super Store is an online supergiant store that has worldwide operations. This store takes orders and delivers products across the globe and deals with all the major product categories like furniture, office supplies and technology, and so on.
 
-### Tools Used
-#### Power BI: For data visualization, transformation, and building interactive reports.
-#### Power Query Editor: For transforming and cleaning data.
-#### DAX (Data Analysis Expressions): For creating measures and key performance indicators (KPIs).
-#### Q&A Model: For enabling natural language queries in the Power BI report.
-#### Data Source
-The dataset for this project consists of historical sales data, provided in Excel workbooks, which includes information on sales, customers, products, regions, and more.
+As a Sales Manager of this store, you want to analyze the sales of the products based on provided historical data, this analysis will help you to plan your inventory and business processes accordingly. Also, to know the product’s and customer’s behavior. 
+
+### Tasks:
+
+1. Load data from the provided data sources (excel workbooks).
+
+2. Perform the required data transformations in the Power Query Editor window.
+
+3. Create the relationships between the loaded tables.
+
+4. Create the required measures for key performance indicators like Sales, Profit, and Ratio.
+
+5. Use the visuals as per the provided design to plot dimensions like Category, Year, Region, Market, Sub-category, Manager, and so on. Add key slicers to slice and dice data in the visuals.
+
+6. Train the Q&A data model for the below synonyms: 
++ Revenue: Sales 
++ Income: Profit
++ Income Percentage: Profit Ratio
+
 
 ### Key Features
-1. Sales Summary
+1. **Sales Summary**
 A detailed report summarizing the sales performance across multiple dimensions such as Category, Year, Region, and Manager.
 KPIs like Sales, Profit, and Profit Ratio are included to track the store's performance.
-2. Q&A Analysis
-Users can interact with the data using natural language queries (e.g., "What is the total profit for 2020?").
+
+![Screenshot 2024-12-30 092829](https://github.com/user-attachments/assets/c20a511c-20bd-442d-b673-6baa2fbae15c)
+
+
+
+![Screenshot 2024-12-30 093052](https://github.com/user-attachments/assets/19488b44-48b5-4e06-9a50-bac9f3728dad)
+
+
+2. **Q&A Analysis**
+Users can interact with the data using natural language queries (e.g., "What is the total profit for 2020?").\
 Synonyms are included for common terms like:
-Revenue (Synonym for Sales)
-Income (Synonym for Profit)
-Income Percentage (Synonym for Profit Ratio)
++ Revenue (Synonym for Sales)
++ Income (Synonym for Profit)
++ Income Percentage (Synonym for Profit Ratio)
 
-### Project Deliverables
-Power BI Report (.pbix): 
+![Screenshot 2024-12-30 092912](https://github.com/user-attachments/assets/82f90fdf-b973-42f3-9e97-3f22bd0d5322)
 
-Screenshots: Visuals and interactive reports from Power BI to showcase the analysis.
-Data Files: Raw Excel workbooks (if included).
+
+
+![Screenshot 2024-12-30 092943](https://github.com/user-attachments/assets/0faf7358-c27b-4faf-b4b5-91d1964e41bc)
+
+
