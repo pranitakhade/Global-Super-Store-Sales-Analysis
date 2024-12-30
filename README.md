@@ -23,6 +23,7 @@ Income (Synonym for Profit)
 Income Percentage (Synonym for Profit Ratio)
 
 ### Project Deliverables
-Power BI Report (.pbix): The main Power BI report file containing all the visuals and data models.
+Power BI Report (.pbix): 
+
 Screenshots: Visuals and interactive reports from Power BI to showcase the analysis.
 Data Files: Raw Excel workbooks (if included).
