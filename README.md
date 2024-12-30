@@ -38,9 +38,9 @@ KPIs like Sales, Profit, and Profit Ratio are included to track the store's perf
 2. **Q&A Analysis**
 Users can interact with the data using natural language queries (e.g., "What is the total profit for 2020?").\
 Synonyms are included for common terms like:
-+ Revenue (Synonym for Sales)
-+ Income (Synonym for Profit)
-+ Income Percentage (Synonym for Profit Ratio)
++ Revenue 
++ Income
++ Income Percentage
 
 ![Screenshot 2024-12-30 092912](https://github.com/user-attachments/assets/82f90fdf-b973-42f3-9e97-3f22bd0d5322)
 
